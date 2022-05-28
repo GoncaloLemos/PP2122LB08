@@ -7,7 +7,7 @@ import java.util.function.IntFunction;
 /**
  *
  * @author Pedro Simões [30007732]
- *         Gonçalo Lemos [30007531]
+ *         Gonçalo Lemos [30007523]
  */
 public class MethodReference<intArray1> {
     //4.
